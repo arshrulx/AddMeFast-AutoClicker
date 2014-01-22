@@ -18,3 +18,8 @@ Version
 - Save Windows Mouse Position (X,Y)
 --3 Functions for Capturing Positions (Click,DO,Close)
 
+
+
+Downloads
+============
+http://sourceforge.net/projects/addmefastautoclicker/
